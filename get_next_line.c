@@ -123,7 +123,7 @@ int main() {
 }
 */
 
-
+/*
 int main()
 {
 	int a = open("a.txt", O_RDONLY, 0777);
@@ -142,7 +142,7 @@ int main()
 	free(str);
 	}
 }
-
+*/
 
 /*int main()
 {
